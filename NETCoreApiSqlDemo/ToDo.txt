@@ -1,0 +1,2 @@
+﻿1. Swagger API
+2. OAuth2 Token based authentication / authorization

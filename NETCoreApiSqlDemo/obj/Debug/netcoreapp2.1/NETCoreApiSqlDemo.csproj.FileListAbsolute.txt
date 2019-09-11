@@ -1,0 +1,14 @@
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\bin\Debug\netcoreapp2.1\NETCoreApiSqlDemo.deps.json
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\bin\Debug\netcoreapp2.1\NETCoreApiSqlDemo.runtimeconfig.json
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\bin\Debug\netcoreapp2.1\NETCoreApiSqlDemo.runtimeconfig.dev.json
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\bin\Debug\netcoreapp2.1\NETCoreApiSqlDemo.dll
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\bin\Debug\netcoreapp2.1\NETCoreApiSqlDemo.pdb
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\obj\Debug\netcoreapp2.1\NETCoreApiSqlDemo.csproj.CoreCompileInputs.cache
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\obj\Debug\netcoreapp2.1\NETCoreApiSqlDemo.RazorAssemblyInfo.cache
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\obj\Debug\netcoreapp2.1\NETCoreApiSqlDemo.RazorAssemblyInfo.cs
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\obj\Debug\netcoreapp2.1\NETCoreApiSqlDemo.AssemblyInfoInputs.cache
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\obj\Debug\netcoreapp2.1\NETCoreApiSqlDemo.AssemblyInfo.cs
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\obj\Debug\netcoreapp2.1\NETCoreApiSqlDemo.RazorTargetAssemblyInfo.cache
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\obj\Debug\netcoreapp2.1\NETCoreApiSqlDemo.dll
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\obj\Debug\netcoreapp2.1\NETCoreApiSqlDemo.pdb
+C:\Users\KFarsimadan64912\source\repos\NETCoreApiSqlDemo\NETCoreApiSqlDemo\obj\Debug\netcoreapp2.1\NETCoreApiSqlDemo.csprojAssemblyReference.cache
